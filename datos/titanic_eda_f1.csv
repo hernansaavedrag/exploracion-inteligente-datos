@@ -1,0 +1,892 @@
+survived,sex,age,sibsp,parch,fare,embarked,class,who,adult_male,alone,family_size,family_group,age_group,log_fare
+0,male,22.0,1,0,7.25,S,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.1102132003465894
+1,female,38.0,1,0,71.2833,C,First,woman,False,False,2,Familia pequeña (2-4),>35–60,4.2805931204649
+1,female,26.0,0,0,7.925,S,Third,woman,False,True,1,Solo (1),>18–35,2.188856327665703
+1,female,35.0,1,0,53.1,S,First,woman,False,False,2,Familia pequeña (2-4),>18–35,3.9908341858524357
+0,male,35.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,male,,0,0,8.4583,Q,Third,man,True,True,1,Solo (1),,2.246892662898172
+0,male,54.0,0,0,51.8625,S,First,man,True,True,1,Solo (1),>35–60,3.967694202798607
+0,male,2.0,3,1,21.075,S,Third,child,False,False,5,Familia numerosa (5+),0–12,3.0944457464900235
+1,female,27.0,0,2,11.1333,S,Third,woman,False,False,3,Familia pequeña (2-4),>18–35,2.495953738718064
+1,female,14.0,1,0,30.0708,C,Second,child,False,False,2,Familia pequeña (2-4),>12–18,3.436268471383741
+1,female,4.0,1,1,16.7,S,Third,child,False,False,3,Familia pequeña (2-4),0–12,2.8735646395797834
+1,female,58.0,0,0,26.55,S,First,woman,False,True,1,Solo (1),>35–60,3.3160025355989236
+0,male,20.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,male,39.0,1,5,31.275,S,Third,man,True,False,7,Familia numerosa (5+),>35–60,3.4742929367327062
+0,female,14.0,0,0,7.8542,S,Third,child,False,True,1,Solo (1),>12–18,2.180891922715322
+1,female,55.0,0,0,16.0,S,Second,woman,False,True,1,Solo (1),>35–60,2.833213344056216
+0,male,2.0,4,1,29.125,Q,Third,child,False,False,6,Familia numerosa (5+),0–12,3.405355391810819
+1,male,,0,0,13.0,S,Second,man,True,True,1,Solo (1),,2.6390573296152584
+0,female,31.0,1,0,18.0,S,Third,woman,False,False,2,Familia pequeña (2-4),>18–35,2.9444389791664403
+1,female,,0,0,7.225,C,Third,woman,False,True,1,Solo (1),,2.1071782966514356
+0,male,35.0,0,0,26.0,S,Second,man,True,True,1,Solo (1),>18–35,3.295836866004329
+1,male,34.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+1,female,15.0,0,0,8.0292,Q,Third,child,False,True,1,Solo (1),>12–18,2.2004637699272855
+1,male,28.0,0,0,35.5,S,First,man,True,True,1,Solo (1),>18–35,3.597312260588446
+0,female,8.0,3,1,21.075,S,Third,child,False,False,5,Familia numerosa (5+),0–12,3.0944457464900235
+1,female,38.0,1,5,31.3875,S,Third,woman,False,False,7,Familia numerosa (5+),>35–60,3.4777725458882283
+0,male,,0,0,7.225,C,Third,man,True,True,1,Solo (1),,2.1071782966514356
+0,male,19.0,3,2,263.0,S,First,man,True,False,6,Familia numerosa (5+),>18–35,5.575949103146316
+1,female,,0,0,7.8792,Q,Third,woman,False,True,1,Solo (1),,2.1837114628556327
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+0,male,40.0,0,0,27.7208,C,First,man,True,True,1,Solo (1),>35–60,3.357621598945279
+1,female,,1,0,146.5208,C,First,woman,False,False,2,Familia pequeña (2-4),,4.993969182787072
+1,female,,0,0,7.75,Q,Third,woman,False,True,1,Solo (1),,2.169053700369523
+0,male,66.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>60,2.4423470353692043
+0,male,28.0,1,0,82.1708,C,First,man,True,False,2,Familia pequeña (2-4),>18–35,4.420896324687287
+0,male,42.0,1,0,52.0,S,First,man,True,False,2,Familia pequeña (2-4),>35–60,3.970291913552122
+1,male,,0,0,7.2292,C,Third,man,True,True,1,Solo (1),,2.1076888046179385
+0,male,21.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,female,18.0,2,0,18.0,S,Third,woman,False,False,3,Familia pequeña (2-4),>12–18,2.9444389791664403
+1,female,14.0,1,0,11.2417,C,Third,child,False,False,2,Familia pequeña (2-4),>12–18,2.5048481563289
+0,female,40.0,1,0,9.475,S,Third,woman,False,False,2,Familia pequeña (2-4),>35–60,2.348991465808201
+0,female,27.0,1,0,21.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>18–35,3.091042453358316
+0,male,,0,0,7.8958,C,Third,man,True,True,1,Solo (1),,2.1855792552411137
+1,female,3.0,1,2,41.5792,C,Second,child,False,False,4,Familia pequeña (2-4),0–12,3.7513658711253766
+1,female,19.0,0,0,7.8792,Q,Third,woman,False,True,1,Solo (1),>18–35,2.1837114628556327
+0,male,,0,0,8.05,S,Third,man,True,True,1,Solo (1),,2.2027647577118348
+0,male,,1,0,15.5,Q,Third,man,True,False,2,Familia pequeña (2-4),,2.803360380906535
+1,female,,0,0,7.75,Q,Third,woman,False,True,1,Solo (1),,2.169053700369523
+0,male,,2,0,21.6792,C,Third,man,True,False,3,Familia pequeña (2-4),,3.1214482048688246
+0,female,18.0,1,0,17.8,S,Third,woman,False,False,2,Familia pequeña (2-4),>12–18,2.9338568698359038
+0,male,7.0,4,1,39.6875,S,Third,child,False,False,6,Familia numerosa (5+),0–12,3.705920919968788
+0,male,21.0,0,0,7.8,S,Third,man,True,True,1,Solo (1),>18–35,2.174751721484161
+1,female,49.0,1,0,76.7292,C,First,woman,False,False,2,Familia pequeña (2-4),>35–60,4.353230991152628
+1,female,29.0,1,0,26.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>18–35,3.295836866004329
+0,male,65.0,0,1,61.9792,C,First,man,True,False,2,Familia pequeña (2-4),>60,4.142804513146981
+1,male,,0,0,35.5,S,First,man,True,True,1,Solo (1),,3.597312260588446
+1,female,21.0,0,0,10.5,S,Second,woman,False,True,1,Solo (1),>18–35,2.4423470353692043
+0,male,28.5,0,0,7.2292,C,Third,man,True,True,1,Solo (1),>18–35,2.1076888046179385
+1,female,5.0,1,2,27.75,S,Second,child,False,False,4,Familia pequeña (2-4),0–12,3.3586377672433594
+0,male,11.0,5,2,46.9,S,Third,child,False,False,8,Familia numerosa (5+),0–12,3.8691155044168695
+0,male,22.0,0,0,7.2292,C,Third,man,True,True,1,Solo (1),>18–35,2.1076888046179385
+1,female,38.0,0,0,80.0,,First,woman,False,True,1,Solo (1),>35–60,4.394449154672439
+0,male,45.0,1,0,83.475,S,First,man,True,False,2,Familia pequeña (2-4),>35–60,4.436455632600354
+0,male,4.0,3,2,27.9,S,Third,child,False,False,6,Familia numerosa (5+),0–12,3.3638415951183864
+0,male,,0,0,27.7208,C,First,man,True,True,1,Solo (1),,3.357621598945279
+1,male,,1,1,15.2458,C,Third,man,True,False,3,Familia pequeña (2-4),,2.7878344138303452
+1,female,29.0,0,0,10.5,S,Second,woman,False,True,1,Solo (1),>18–35,2.4423470353692043
+0,male,19.0,0,0,8.1583,S,Third,man,True,True,1,Solo (1),>18–35,2.2146605719425225
+1,female,17.0,4,2,7.925,S,Third,woman,False,False,7,Familia numerosa (5+),>12–18,2.188856327665703
+0,male,26.0,2,0,8.6625,S,Third,man,True,False,3,Familia pequeña (2-4),>18–35,2.2682524139135403
+0,male,32.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>18–35,2.4423470353692043
+0,female,16.0,5,2,46.9,S,Third,woman,False,False,8,Familia numerosa (5+),>12–18,3.8691155044168695
+0,male,21.0,0,0,73.5,S,Second,man,True,True,1,Solo (1),>18–35,4.310799125385514
+0,male,26.0,1,0,14.4542,C,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.737880811060884
+1,male,32.0,0,0,56.4958,S,Third,man,True,True,1,Solo (1),>18–35,4.05171190165724
+0,male,25.0,0,0,7.65,S,Third,man,True,True,1,Solo (1),>18–35,2.157559320943788
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+0,male,,0,0,8.05,S,Third,man,True,True,1,Solo (1),,2.2027647577118348
+1,male,0.83,0,2,29.0,S,Second,child,False,False,3,Familia pequeña (2-4),0–12,3.4011973816621555
+1,female,30.0,0,0,12.475,S,Third,woman,False,True,1,Solo (1),>18–35,2.600836116795061
+0,male,22.0,0,0,9.0,S,Third,man,True,True,1,Solo (1),>18–35,2.302585092994046
+1,male,29.0,0,0,9.5,S,Third,man,True,True,1,Solo (1),>18–35,2.3513752571634776
+1,female,,0,0,7.7875,Q,Third,woman,False,True,1,Solo (1),,2.1733302571367834
+0,male,28.0,0,0,47.1,S,First,man,True,True,1,Solo (1),>18–35,3.8732821771117156
+1,female,17.0,0,0,10.5,S,Second,woman,False,True,1,Solo (1),>12–18,2.4423470353692043
+1,female,33.0,3,0,15.85,S,Third,woman,False,False,4,Familia pequeña (2-4),>18–35,2.8243506567983707
+0,male,16.0,1,3,34.375,S,Third,man,True,False,5,Familia numerosa (5+),>12–18,3.5660053559634015
+0,male,,0,0,8.05,S,Third,man,True,True,1,Solo (1),,2.2027647577118348
+1,female,23.0,3,2,263.0,S,First,woman,False,False,6,Familia numerosa (5+),>18–35,5.575949103146316
+0,male,24.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,male,29.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,male,20.0,0,0,7.8542,S,Third,man,True,True,1,Solo (1),>18–35,2.180891922715322
+0,male,46.0,1,0,61.175,S,First,man,True,False,2,Familia pequeña (2-4),>35–60,4.1299529896894684
+0,male,26.0,1,2,20.575,S,Third,man,True,False,4,Familia pequeña (2-4),>18–35,3.0715352369694915
+0,male,59.0,0,0,7.25,S,Third,man,True,True,1,Solo (1),>35–60,2.1102132003465894
+0,male,,0,0,8.05,S,Third,man,True,True,1,Solo (1),,2.2027647577118348
+0,male,71.0,0,0,34.6542,C,First,man,True,True,1,Solo (1),>60,3.57386695198272
+1,male,23.0,0,1,63.3583,C,First,man,True,False,2,Familia pequeña (2-4),>18–35,4.164465907853638
+1,female,34.0,0,1,23.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>18–35,3.1780538303479458
+0,male,34.0,1,0,26.0,S,Second,man,True,False,2,Familia pequeña (2-4),>18–35,3.295836866004329
+0,female,28.0,0,0,7.8958,S,Third,woman,False,True,1,Solo (1),>18–35,2.1855792552411137
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+0,male,21.0,0,1,77.2875,S,First,man,True,False,2,Familia pequeña (2-4),>18–35,4.360387947851531
+0,male,33.0,0,0,8.6542,S,Third,man,True,True,1,Solo (1),>18–35,2.267393053825037
+0,male,37.0,2,0,7.925,S,Third,man,True,False,3,Familia pequeña (2-4),>35–60,2.188856327665703
+0,male,28.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+1,female,21.0,0,0,7.65,S,Third,woman,False,True,1,Solo (1),>18–35,2.157559320943788
+1,male,,0,0,7.775,S,Third,man,True,True,1,Solo (1),,2.1719067693519296
+0,male,38.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>35–60,2.1855792552411137
+1,female,,1,0,24.15,Q,Third,woman,False,False,2,Familia pequeña (2-4),,3.224857896545748
+0,male,47.0,0,0,52.0,S,First,man,True,True,1,Solo (1),>35–60,3.970291913552122
+0,female,14.5,1,0,14.4542,C,Third,child,False,False,2,Familia pequeña (2-4),>12–18,2.737880811060884
+0,male,22.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,female,20.0,1,0,9.825,S,Third,woman,False,False,2,Familia pequeña (2-4),>18–35,2.3818582738885534
+0,female,17.0,0,0,14.4583,C,Third,woman,False,True,1,Solo (1),>12–18,2.738146075922933
+0,male,21.0,0,0,7.925,S,Third,man,True,True,1,Solo (1),>18–35,2.188856327665703
+0,male,70.5,0,0,7.75,Q,Third,man,True,True,1,Solo (1),>60,2.169053700369523
+0,male,29.0,1,0,21.0,S,Second,man,True,False,2,Familia pequeña (2-4),>18–35,3.091042453358316
+0,male,24.0,0,1,247.5208,C,First,man,True,False,2,Familia pequeña (2-4),>18–35,5.515526544247129
+0,female,2.0,4,2,31.275,S,Third,child,False,False,7,Familia numerosa (5+),0–12,3.4742929367327062
+0,male,21.0,2,0,73.5,S,Second,man,True,False,3,Familia pequeña (2-4),>18–35,4.310799125385514
+0,male,,0,0,8.05,S,Third,man,True,True,1,Solo (1),,2.2027647577118348
+0,male,32.5,1,0,30.0708,C,Second,man,True,False,2,Familia pequeña (2-4),>18–35,3.436268471383741
+1,female,32.5,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,54.0,0,1,77.2875,S,First,man,True,False,2,Familia pequeña (2-4),>35–60,4.360387947851531
+1,male,12.0,1,0,11.2417,C,Third,child,False,False,2,Familia pequeña (2-4),0–12,2.5048481563289
+0,male,,0,0,7.75,Q,Third,man,True,True,1,Solo (1),,2.169053700369523
+1,male,24.0,0,0,7.1417,S,Third,man,True,True,1,Solo (1),>18–35,2.0969990034181696
+1,female,,1,1,22.3583,C,Third,woman,False,False,3,Familia pequeña (2-4),,3.1509523813392697
+0,male,45.0,0,0,6.975,S,Third,man,True,True,1,Solo (1),>35–60,2.076311648670908
+0,male,33.0,0,0,7.8958,C,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+0,male,20.0,0,0,7.05,S,Third,man,True,True,1,Solo (1),>18–35,2.0856720914304723
+0,female,47.0,1,0,14.5,S,Third,woman,False,False,2,Familia pequeña (2-4),>35–60,2.740840023925201
+1,female,29.0,1,0,26.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>18–35,3.295836866004329
+0,male,25.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,23.0,0,0,15.0458,C,Second,man,True,True,1,Solo (1),>18–35,2.775447133088262
+1,female,19.0,0,2,26.2833,S,First,woman,False,False,3,Familia pequeña (2-4),>18–35,3.3062747934011893
+0,male,37.0,1,0,53.1,S,First,man,True,False,2,Familia pequeña (2-4),>35–60,3.9908341858524357
+0,male,16.0,0,0,9.2167,S,Third,man,True,True,1,Solo (1),>12–18,2.3240236363515288
+0,male,24.0,0,0,79.2,C,First,man,True,True,1,Solo (1),>18–35,4.384523514872469
+0,female,,0,2,15.2458,C,Third,woman,False,False,3,Familia pequeña (2-4),,2.7878344138303452
+1,female,22.0,0,0,7.75,S,Third,woman,False,True,1,Solo (1),>18–35,2.169053700369523
+1,female,24.0,1,0,15.85,S,Third,woman,False,False,2,Familia pequeña (2-4),>18–35,2.8243506567983707
+0,male,19.0,0,0,6.75,Q,Third,man,True,True,1,Solo (1),>18–35,2.0476928433652555
+0,male,18.0,0,0,11.5,S,Second,man,True,True,1,Solo (1),>12–18,2.5257286443082556
+0,male,19.0,1,1,36.75,S,Second,man,True,False,3,Familia pequeña (2-4),>18–35,3.6309854756950335
+1,male,27.0,0,0,7.7958,S,Third,man,True,True,1,Solo (1),>18–35,2.174274334826008
+0,female,9.0,2,2,34.375,S,Third,child,False,False,5,Familia numerosa (5+),0–12,3.5660053559634015
+0,male,36.5,0,2,26.0,S,Second,man,True,False,3,Familia pequeña (2-4),>35–60,3.295836866004329
+0,male,42.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>35–60,2.6390573296152584
+0,male,51.0,0,0,12.525,S,Second,man,True,True,1,Solo (1),>35–60,2.6045398247325453
+1,female,22.0,1,0,66.6,S,First,woman,False,False,2,Familia pequeña (2-4),>18–35,4.213607983048918
+0,male,55.5,0,0,8.05,S,Third,man,True,True,1,Solo (1),>35–60,2.2027647577118348
+0,male,40.5,0,2,14.5,S,Third,man,True,False,3,Familia pequeña (2-4),>35–60,2.740840023925201
+0,male,,0,0,7.3125,S,Third,man,True,True,1,Solo (1),,2.1177604059819726
+0,male,51.0,0,1,61.3792,C,First,man,True,False,2,Familia pequeña (2-4),>35–60,4.133231886474144
+1,female,16.0,0,0,7.7333,Q,Third,woman,False,True,1,Solo (1),>12–18,2.167143305297764
+0,male,30.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,male,,0,0,8.6625,S,Third,man,True,True,1,Solo (1),,2.2682524139135403
+0,male,,8,2,69.55,S,Third,man,True,False,11,Familia numerosa (5+),,4.256321678298823
+0,male,44.0,0,1,16.1,S,Third,man,True,False,2,Familia pequeña (2-4),>35–60,2.8390784635086144
+1,female,40.0,0,0,15.75,S,Second,woman,False,True,1,Solo (1),>35–60,2.8183982582710754
+0,male,26.0,0,0,7.775,S,Third,man,True,True,1,Solo (1),>18–35,2.1719067693519296
+0,male,17.0,0,0,8.6625,S,Third,man,True,True,1,Solo (1),>12–18,2.2682524139135403
+0,male,1.0,4,1,39.6875,S,Third,child,False,False,6,Familia numerosa (5+),0–12,3.705920919968788
+1,male,9.0,0,2,20.525,S,Third,child,False,False,3,Familia pequeña (2-4),0–12,3.0692150503137943
+1,female,,0,1,55.0,S,First,woman,False,False,2,Familia pequeña (2-4),,4.02535169073515
+0,female,45.0,1,4,27.9,S,Third,woman,False,False,6,Familia numerosa (5+),>35–60,3.3638415951183864
+0,male,,0,0,25.925,S,First,man,True,True,1,Solo (1),,3.2930552230424524
+0,male,28.0,0,0,56.4958,S,Third,man,True,True,1,Solo (1),>18–35,4.05171190165724
+0,male,61.0,0,0,33.5,S,First,man,True,True,1,Solo (1),>60,3.5409593240373143
+0,male,4.0,4,1,29.125,Q,Third,child,False,False,6,Familia numerosa (5+),0–12,3.405355391810819
+1,female,1.0,1,1,11.1333,S,Third,child,False,False,3,Familia pequeña (2-4),0–12,2.495953738718064
+0,male,21.0,0,0,7.925,S,Third,man,True,True,1,Solo (1),>18–35,2.188856327665703
+0,male,56.0,0,0,30.6958,C,First,man,True,True,1,Solo (1),>35–60,3.4561841799918147
+0,male,18.0,1,1,7.8542,S,Third,man,True,False,3,Familia pequeña (2-4),>12–18,2.180891922715322
+0,male,,3,1,25.4667,S,Third,man,True,False,5,Familia numerosa (5+),,3.275887339030031
+0,female,50.0,0,0,28.7125,C,First,woman,False,True,1,Solo (1),>35–60,3.391567832686312
+0,male,30.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,36.0,0,0,0.0,S,Third,man,True,True,1,Solo (1),>35–60,0.0
+0,female,,8,2,69.55,S,Third,woman,False,False,11,Familia numerosa (5+),,4.256321678298823
+0,male,,0,0,15.05,C,Second,man,True,True,1,Solo (1),,2.775708849576025
+0,male,9.0,4,2,31.3875,S,Third,child,False,False,7,Familia numerosa (5+),0–12,3.4777725458882283
+1,male,1.0,2,1,39.0,S,Second,child,False,False,4,Familia pequeña (2-4),0–12,3.6888794541139363
+1,female,4.0,0,2,22.025,S,Third,child,False,False,3,Familia pequeña (2-4),0–12,3.1365805821413706
+0,male,,0,0,50.0,S,First,man,True,True,1,Solo (1),,3.9318256327243257
+1,female,,1,0,15.5,Q,Third,woman,False,False,2,Familia pequeña (2-4),,2.803360380906535
+1,male,45.0,0,0,26.55,S,First,man,True,True,1,Solo (1),>35–60,3.3160025355989236
+0,male,40.0,1,1,15.5,Q,Third,man,True,False,3,Familia pequeña (2-4),>35–60,2.803360380906535
+0,male,36.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>35–60,2.1855792552411137
+1,female,32.0,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,19.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+1,female,19.0,1,0,7.8542,S,Third,woman,False,False,2,Familia pequeña (2-4),>18–35,2.180891922715322
+1,male,3.0,1,1,26.0,S,Second,child,False,False,3,Familia pequeña (2-4),0–12,3.295836866004329
+1,female,44.0,0,0,27.7208,C,First,woman,False,True,1,Solo (1),>35–60,3.357621598945279
+1,female,58.0,0,0,146.5208,C,First,woman,False,True,1,Solo (1),>35–60,4.993969182787072
+0,male,,0,0,7.75,Q,Third,man,True,True,1,Solo (1),,2.169053700369523
+0,male,42.0,0,1,8.4042,S,Third,man,True,False,2,Familia pequeña (2-4),>35–60,2.2411563979973974
+1,female,,0,0,7.75,Q,Third,woman,False,True,1,Solo (1),,2.169053700369523
+0,female,24.0,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,28.0,0,0,9.5,S,Third,man,True,True,1,Solo (1),>18–35,2.3513752571634776
+0,male,,8,2,69.55,S,Third,man,True,False,11,Familia numerosa (5+),,4.256321678298823
+0,male,34.0,0,0,6.4958,S,Third,man,True,True,1,Solo (1),>18–35,2.0143428636837015
+0,male,45.5,0,0,7.225,C,Third,man,True,True,1,Solo (1),>35–60,2.1071782966514356
+1,male,18.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>12–18,2.2027647577118348
+0,female,2.0,0,1,10.4625,S,Third,child,False,False,2,Familia pequeña (2-4),0–12,2.4390808375825834
+0,male,32.0,1,0,15.85,S,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.8243506567983707
+1,male,26.0,0,0,18.7875,C,Third,man,True,True,1,Solo (1),>18–35,2.9850504252071306
+1,female,16.0,0,0,7.75,Q,Third,woman,False,True,1,Solo (1),>12–18,2.169053700369523
+1,male,40.0,0,0,31.0,C,First,man,True,True,1,Solo (1),>35–60,3.4657359027997265
+0,male,24.0,0,0,7.05,S,Third,man,True,True,1,Solo (1),>18–35,2.0856720914304723
+1,female,35.0,0,0,21.0,S,Second,woman,False,True,1,Solo (1),>18–35,3.091042453358316
+0,male,22.0,0,0,7.25,S,Third,man,True,True,1,Solo (1),>18–35,2.1102132003465894
+0,male,30.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,,1,0,7.75,Q,Third,man,True,False,2,Familia pequeña (2-4),,2.169053700369523
+1,female,31.0,1,0,113.275,C,First,woman,False,False,2,Familia pequeña (2-4),>18–35,4.738607824217808
+1,female,27.0,0,0,7.925,S,Third,woman,False,True,1,Solo (1),>18–35,2.188856327665703
+0,male,42.0,1,0,27.0,S,Second,man,True,False,2,Familia pequeña (2-4),>35–60,3.332204510175204
+1,female,32.0,0,0,76.2917,C,First,woman,False,True,1,Solo (1),>18–35,4.347586575960343
+0,male,30.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>18–35,2.4423470353692043
+1,male,16.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>12–18,2.2027647577118348
+0,male,27.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,51.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>35–60,2.2027647577118348
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+1,male,38.0,1,0,90.0,S,First,man,True,False,2,Familia pequeña (2-4),>35–60,4.51085950651685
+0,male,22.0,0,0,9.35,S,Third,man,True,True,1,Solo (1),>18–35,2.336986519711378
+1,male,19.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>18–35,2.4423470353692043
+0,male,20.5,0,0,7.25,S,Third,man,True,True,1,Solo (1),>18–35,2.1102132003465894
+0,male,18.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>12–18,2.6390573296152584
+0,female,,3,1,25.4667,S,Third,woman,False,False,5,Familia numerosa (5+),,3.275887339030031
+1,female,35.0,1,0,83.475,S,First,woman,False,False,2,Familia pequeña (2-4),>18–35,4.436455632600354
+0,male,29.0,0,0,7.775,S,Third,man,True,True,1,Solo (1),>18–35,2.1719067693519296
+0,male,59.0,0,0,13.5,S,Second,man,True,True,1,Solo (1),>35–60,2.6741486494265287
+1,female,5.0,4,2,31.3875,S,Third,child,False,False,7,Familia numerosa (5+),0–12,3.4777725458882283
+0,male,24.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>18–35,2.4423470353692043
+0,female,,0,0,7.55,S,Third,woman,False,True,1,Solo (1),,2.145931282948669
+0,male,44.0,1,0,26.0,S,Second,man,True,False,2,Familia pequeña (2-4),>35–60,3.295836866004329
+1,female,8.0,0,2,26.25,S,Second,child,False,False,3,Familia pequeña (2-4),0–12,3.305053521109253
+0,male,19.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>18–35,2.4423470353692043
+0,male,33.0,0,0,12.275,S,Second,man,True,True,1,Solo (1),>18–35,2.5858825671280026
+0,female,,1,0,14.4542,C,Third,woman,False,False,2,Familia pequeña (2-4),,2.737880811060884
+1,female,,1,0,15.5,Q,Third,woman,False,False,2,Familia pequeña (2-4),,2.803360380906535
+0,male,29.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>18–35,2.4423470353692043
+0,male,22.0,0,0,7.125,S,Third,man,True,True,1,Solo (1),>18–35,2.094945728215801
+0,male,30.0,0,0,7.225,C,Third,man,True,True,1,Solo (1),>18–35,2.1071782966514356
+0,male,44.0,2,0,90.0,Q,First,man,True,False,3,Familia pequeña (2-4),>35–60,4.51085950651685
+0,female,25.0,0,0,7.775,S,Third,woman,False,True,1,Solo (1),>18–35,2.1719067693519296
+1,female,24.0,0,2,14.5,S,Second,woman,False,False,3,Familia pequeña (2-4),>18–35,2.740840023925201
+1,male,37.0,1,1,52.5542,S,First,man,True,False,3,Familia pequeña (2-4),>35–60,3.9806942251907276
+0,male,54.0,1,0,26.0,S,Second,man,True,False,2,Familia pequeña (2-4),>35–60,3.295836866004329
+0,male,,0,0,7.25,S,Third,man,True,True,1,Solo (1),,2.1102132003465894
+0,female,29.0,1,1,10.4625,S,Third,woman,False,False,3,Familia pequeña (2-4),>18–35,2.4390808375825834
+0,male,62.0,0,0,26.55,S,First,man,True,True,1,Solo (1),>60,3.3160025355989236
+0,male,30.0,1,0,16.1,S,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.8390784635086144
+0,female,41.0,0,2,20.2125,S,Third,woman,False,False,3,Familia pequeña (2-4),>35–60,3.0545906305603445
+1,female,29.0,0,2,15.2458,C,Third,woman,False,False,3,Familia pequeña (2-4),>18–35,2.7878344138303452
+1,female,,0,0,79.2,C,First,woman,False,True,1,Solo (1),,4.384523514872469
+1,female,30.0,0,0,86.5,S,First,woman,False,True,1,Solo (1),>18–35,4.471638793363569
+1,female,35.0,0,0,512.3292,C,First,woman,False,True,1,Solo (1),>18–35,6.240917354759096
+1,female,50.0,0,1,26.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>35–60,3.295836866004329
+0,male,,0,0,7.75,Q,Third,man,True,True,1,Solo (1),,2.169053700369523
+1,male,3.0,4,2,31.3875,S,Third,child,False,False,7,Familia numerosa (5+),0–12,3.4777725458882283
+0,male,52.0,1,1,79.65,S,First,man,True,False,3,Familia pequeña (2-4),>35–60,4.390118804571218
+0,male,40.0,0,0,0.0,S,First,man,True,True,1,Solo (1),>35–60,0.0
+0,female,,0,0,7.75,Q,Third,woman,False,True,1,Solo (1),,2.169053700369523
+0,male,36.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>35–60,2.4423470353692043
+0,male,16.0,4,1,39.6875,S,Third,man,True,False,6,Familia numerosa (5+),>12–18,3.705920919968788
+1,male,25.0,1,0,7.775,S,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.1719067693519296
+1,female,58.0,0,1,153.4625,S,First,woman,False,False,2,Familia pequeña (2-4),>35–60,5.039951348430309
+1,female,35.0,0,0,135.6333,S,First,woman,False,True,1,Solo (1),>18–35,4.91730069488021
+0,male,,0,0,31.0,S,First,man,True,True,1,Solo (1),,3.4657359027997265
+1,male,25.0,0,0,0.0,S,Third,man,True,True,1,Solo (1),>18–35,0.0
+1,female,41.0,0,1,19.5,S,Second,woman,False,False,2,Familia pequeña (2-4),>35–60,3.0204248861443626
+0,male,37.0,0,1,29.7,C,First,man,True,False,2,Familia pequeña (2-4),>35–60,3.4242626545931514
+1,female,,0,0,7.75,Q,Third,woman,False,True,1,Solo (1),,2.169053700369523
+1,female,63.0,1,0,77.9583,S,First,woman,False,False,2,Familia pequeña (2-4),>60,4.368919865004903
+0,female,45.0,0,0,7.75,S,Third,woman,False,True,1,Solo (1),>35–60,2.169053700369523
+0,male,,0,0,0.0,S,Second,man,True,True,1,Solo (1),,0.0
+0,male,7.0,4,1,29.125,Q,Third,child,False,False,6,Familia numerosa (5+),0–12,3.405355391810819
+1,female,35.0,1,1,20.25,S,Third,woman,False,False,3,Familia pequeña (2-4),>18–35,3.056356895370426
+0,male,65.0,0,0,7.75,Q,Third,man,True,True,1,Solo (1),>60,2.169053700369523
+0,male,28.0,0,0,7.8542,S,Third,man,True,True,1,Solo (1),>18–35,2.180891922715322
+0,male,16.0,0,0,9.5,S,Third,man,True,True,1,Solo (1),>12–18,2.3513752571634776
+1,male,19.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,male,,0,0,26.0,S,First,man,True,True,1,Solo (1),,3.295836866004329
+0,male,33.0,0,0,8.6625,C,Third,man,True,True,1,Solo (1),>18–35,2.2682524139135403
+1,male,30.0,0,0,9.5,S,Third,man,True,True,1,Solo (1),>18–35,2.3513752571634776
+0,male,22.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+1,male,42.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>35–60,2.6390573296152584
+1,female,22.0,0,0,7.75,Q,Third,woman,False,True,1,Solo (1),>18–35,2.169053700369523
+1,female,26.0,0,0,78.85,S,First,woman,False,True,1,Solo (1),>18–35,4.380149874661021
+1,female,19.0,1,0,91.0792,C,First,woman,False,False,2,Familia pequeña (2-4),>18–35,4.5226490762785785
+0,male,36.0,0,0,12.875,C,Second,man,True,True,1,Solo (1),>35–60,2.630088659632498
+0,female,24.0,0,0,8.85,S,Third,woman,False,True,1,Solo (1),>18–35,2.2874714551839976
+0,male,24.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+0,male,,0,0,27.7208,C,First,man,True,True,1,Solo (1),,3.357621598945279
+0,male,23.5,0,0,7.2292,C,Third,man,True,True,1,Solo (1),>18–35,2.1076888046179385
+0,female,2.0,1,2,151.55,S,First,child,False,False,4,Familia pequeña (2-4),0–12,5.027492411162679
+1,male,,0,0,30.5,S,First,man,True,True,1,Solo (1),,3.449987545831587
+1,female,50.0,0,1,247.5208,C,First,woman,False,False,2,Familia pequeña (2-4),>35–60,5.515526544247129
+1,female,,0,0,7.75,Q,Third,woman,False,True,1,Solo (1),,2.169053700369523
+1,male,,2,0,23.25,Q,Third,man,True,False,3,Familia pequeña (2-4),,3.188416617383492
+0,male,19.0,0,0,0.0,S,Third,man,True,True,1,Solo (1),>18–35,0.0
+1,female,,0,0,12.35,Q,Second,woman,False,True,1,Solo (1),,2.5915163848462583
+0,male,,0,0,8.05,S,Third,man,True,True,1,Solo (1),,2.2027647577118348
+1,male,0.92,1,2,151.55,S,First,child,False,False,4,Familia pequeña (2-4),0–12,5.027492411162679
+1,female,,0,0,110.8833,C,First,woman,False,True,1,Solo (1),,4.717456363787216
+1,female,17.0,1,0,108.9,C,First,woman,False,False,2,Familia pequeña (2-4),>12–18,4.699570861409576
+0,male,30.0,1,0,24.0,C,Second,man,True,False,2,Familia pequeña (2-4),>18–35,3.2188758248682006
+1,female,30.0,0,0,56.9292,C,First,woman,False,True,1,Solo (1),>18–35,4.0592215752427645
+1,female,24.0,0,0,83.1583,C,First,woman,False,True,1,Solo (1),>18–35,4.432699549165613
+1,female,18.0,2,2,262.375,C,First,woman,False,False,5,Familia numerosa (5+),>12–18,5.5735788721243535
+0,female,26.0,1,1,26.0,S,Second,woman,False,False,3,Familia pequeña (2-4),>18–35,3.295836866004329
+0,male,28.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+0,male,43.0,1,1,26.25,S,Second,man,True,False,3,Familia pequeña (2-4),>35–60,3.305053521109253
+1,female,26.0,0,0,7.8542,S,Third,woman,False,True,1,Solo (1),>18–35,2.180891922715322
+1,female,24.0,1,0,26.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>18–35,3.295836866004329
+0,male,54.0,0,0,14.0,S,Second,man,True,True,1,Solo (1),>35–60,2.70805020110221
+1,female,31.0,0,2,164.8667,S,First,woman,False,False,3,Familia pequeña (2-4),>18–35,5.11118445372147
+1,female,40.0,1,1,134.5,C,First,woman,False,False,3,Familia pequeña (2-4),>35–60,4.908971640319756
+0,male,22.0,0,0,7.25,S,Third,man,True,True,1,Solo (1),>18–35,2.1102132003465894
+0,male,27.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+1,female,30.0,0,0,12.35,Q,Second,woman,False,True,1,Solo (1),>18–35,2.5915163848462583
+1,female,22.0,1,1,29.0,S,Second,woman,False,False,3,Familia pequeña (2-4),>18–35,3.4011973816621555
+0,male,,8,2,69.55,S,Third,man,True,False,11,Familia numerosa (5+),,4.256321678298823
+1,female,36.0,0,0,135.6333,C,First,woman,False,True,1,Solo (1),>35–60,4.91730069488021
+0,male,61.0,0,0,6.2375,S,Third,man,True,True,1,Solo (1),>60,1.9792758428991135
+1,female,36.0,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>35–60,2.6390573296152584
+1,female,31.0,1,1,20.525,S,Third,woman,False,False,3,Familia pequeña (2-4),>18–35,3.0692150503137943
+1,female,16.0,0,1,57.9792,C,First,woman,False,False,2,Familia pequeña (2-4),>12–18,4.077184839375167
+1,female,,2,0,23.25,Q,Third,woman,False,False,3,Familia pequeña (2-4),,3.188416617383492
+0,male,45.5,0,0,28.5,S,First,man,True,True,1,Solo (1),>35–60,3.3843902633457743
+0,male,38.0,0,1,153.4625,S,First,man,True,False,2,Familia pequeña (2-4),>35–60,5.039951348430309
+0,male,16.0,2,0,18.0,S,Third,man,True,False,3,Familia pequeña (2-4),>12–18,2.9444389791664403
+1,female,,1,0,133.65,S,First,woman,False,False,2,Familia pequeña (2-4),,4.902678819257608
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+0,male,29.0,1,0,66.6,S,First,man,True,False,2,Familia pequeña (2-4),>18–35,4.213607983048918
+1,female,41.0,0,0,134.5,C,First,woman,False,True,1,Solo (1),>35–60,4.908971640319756
+1,male,45.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>35–60,2.2027647577118348
+0,male,45.0,0,0,35.5,S,First,man,True,True,1,Solo (1),>35–60,3.597312260588446
+1,male,2.0,1,1,26.0,S,Second,child,False,False,3,Familia pequeña (2-4),0–12,3.295836866004329
+1,female,24.0,3,2,263.0,S,First,woman,False,False,6,Familia numerosa (5+),>18–35,5.575949103146316
+0,male,28.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,25.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,36.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>35–60,2.6390573296152584
+1,female,24.0,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>18–35,2.6390573296152584
+1,female,40.0,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>35–60,2.6390573296152584
+1,female,,1,0,16.1,S,Third,woman,False,False,2,Familia pequeña (2-4),,2.8390784635086144
+1,male,3.0,1,1,15.9,S,Third,child,False,False,3,Familia pequeña (2-4),0–12,2.8273136219290276
+0,male,42.0,0,0,8.6625,S,Third,man,True,True,1,Solo (1),>35–60,2.2682524139135403
+0,male,23.0,0,0,9.225,S,Third,man,True,True,1,Solo (1),>18–35,2.3248357019288655
+0,male,,0,0,35.0,S,First,man,True,True,1,Solo (1),,3.58351893845611
+0,male,15.0,1,1,7.2292,C,Third,child,False,False,3,Familia pequeña (2-4),>12–18,2.1076888046179385
+0,male,25.0,1,0,17.8,S,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.9338568698359038
+0,male,,0,0,7.225,C,Third,man,True,True,1,Solo (1),,2.1071782966514356
+0,male,28.0,0,0,9.5,S,Third,man,True,True,1,Solo (1),>18–35,2.3513752571634776
+1,female,22.0,0,1,55.0,S,First,woman,False,False,2,Familia pequeña (2-4),>18–35,4.02535169073515
+0,female,38.0,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>35–60,2.6390573296152584
+1,female,,0,0,7.8792,Q,Third,woman,False,True,1,Solo (1),,2.1837114628556327
+1,female,,0,0,7.8792,Q,Third,woman,False,True,1,Solo (1),,2.1837114628556327
+0,male,40.0,1,4,27.9,S,Third,man,True,False,6,Familia numerosa (5+),>35–60,3.3638415951183864
+0,male,29.0,1,0,27.7208,C,Second,man,True,False,2,Familia pequeña (2-4),>18–35,3.357621598945279
+0,female,45.0,0,1,14.4542,C,Third,woman,False,False,2,Familia pequeña (2-4),>35–60,2.737880811060884
+0,male,35.0,0,0,7.05,S,Third,man,True,True,1,Solo (1),>18–35,2.0856720914304723
+0,male,,1,0,15.5,Q,Third,man,True,False,2,Familia pequeña (2-4),,2.803360380906535
+0,male,30.0,0,0,7.25,S,Third,man,True,True,1,Solo (1),>18–35,2.1102132003465894
+1,female,60.0,1,0,75.25,C,First,woman,False,False,2,Familia pequeña (2-4),>35–60,4.334017415487521
+1,female,,0,0,7.2292,C,Third,woman,False,True,1,Solo (1),,2.1076888046179385
+1,female,,0,0,7.75,Q,Third,woman,False,True,1,Solo (1),,2.169053700369523
+1,female,24.0,0,0,69.3,C,First,woman,False,True,1,Solo (1),>18–35,4.252771798816619
+1,male,25.0,1,0,55.4417,C,First,man,True,False,2,Familia pequeña (2-4),>18–35,4.0332082470129285
+0,male,18.0,1,0,6.4958,S,Third,man,True,False,2,Familia pequeña (2-4),>12–18,2.0143428636837015
+0,male,19.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,male,22.0,0,0,135.6333,C,First,man,True,True,1,Solo (1),>18–35,4.91730069488021
+0,female,3.0,3,1,21.075,S,Third,child,False,False,5,Familia numerosa (5+),0–12,3.0944457464900235
+1,female,,1,0,82.1708,C,First,woman,False,False,2,Familia pequeña (2-4),,4.420896324687287
+1,female,22.0,0,0,7.25,S,Third,woman,False,True,1,Solo (1),>18–35,2.1102132003465894
+0,male,27.0,0,2,211.5,C,First,man,True,False,3,Familia pequeña (2-4),>18–35,5.358941988364472
+0,male,20.0,0,0,4.0125,C,Third,man,True,True,1,Solo (1),>18–35,1.6119347926326877
+0,male,19.0,0,0,7.775,S,Third,man,True,True,1,Solo (1),>18–35,2.1719067693519296
+1,female,42.0,0,0,227.525,C,First,woman,False,True,1,Solo (1),>35–60,5.4316456135398825
+1,female,1.0,0,2,15.7417,C,Third,child,False,False,3,Familia pequeña (2-4),0–12,2.817902613071225
+0,male,32.0,0,0,7.925,S,Third,man,True,True,1,Solo (1),>18–35,2.188856327665703
+1,female,35.0,1,0,52.0,S,First,woman,False,False,2,Familia pequeña (2-4),>18–35,3.970291913552122
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+0,male,18.0,0,0,73.5,S,Second,man,True,True,1,Solo (1),>12–18,4.310799125385514
+0,male,1.0,5,2,46.9,S,Third,child,False,False,8,Familia numerosa (5+),0–12,3.8691155044168695
+1,female,36.0,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>35–60,2.6390573296152584
+0,male,,0,0,7.7292,Q,Third,man,True,True,1,Solo (1),,2.1666737276227077
+1,female,17.0,0,0,12.0,C,Second,woman,False,True,1,Solo (1),>12–18,2.5649493574615367
+1,male,36.0,1,2,120.0,S,First,man,True,False,4,Familia pequeña (2-4),>35–60,4.795790545596741
+1,male,21.0,0,0,7.7958,S,Third,man,True,True,1,Solo (1),>18–35,2.174274334826008
+0,male,28.0,2,0,7.925,S,Third,man,True,False,3,Familia pequeña (2-4),>18–35,2.188856327665703
+1,female,23.0,1,0,113.275,C,First,woman,False,False,2,Familia pequeña (2-4),>18–35,4.738607824217808
+1,female,24.0,0,2,16.7,S,Third,woman,False,False,3,Familia pequeña (2-4),>18–35,2.8735646395797834
+0,male,22.0,0,0,7.7958,S,Third,man,True,True,1,Solo (1),>18–35,2.174274334826008
+0,female,31.0,0,0,7.8542,S,Third,woman,False,True,1,Solo (1),>18–35,2.180891922715322
+0,male,46.0,0,0,26.0,S,Second,man,True,True,1,Solo (1),>35–60,3.295836866004329
+0,male,23.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>18–35,2.4423470353692043
+1,female,28.0,0,0,12.65,S,Second,woman,False,True,1,Solo (1),>18–35,2.613739521630969
+1,male,39.0,0,0,7.925,S,Third,man,True,True,1,Solo (1),>35–60,2.188856327665703
+0,male,26.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,female,21.0,1,0,9.825,S,Third,woman,False,False,2,Familia pequeña (2-4),>18–35,2.3818582738885534
+0,male,28.0,1,0,15.85,S,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.8243506567983707
+0,female,20.0,0,0,8.6625,S,Third,woman,False,True,1,Solo (1),>18–35,2.2682524139135403
+0,male,34.0,1,0,21.0,S,Second,man,True,False,2,Familia pequeña (2-4),>18–35,3.091042453358316
+0,male,51.0,0,0,7.75,S,Third,man,True,True,1,Solo (1),>35–60,2.169053700369523
+1,male,3.0,1,1,18.75,S,Second,child,False,False,3,Familia pequeña (2-4),0–12,2.9831534913471307
+0,male,21.0,0,0,7.775,S,Third,man,True,True,1,Solo (1),>18–35,2.1719067693519296
+0,female,,3,1,25.4667,S,Third,woman,False,False,5,Familia numerosa (5+),,3.275887339030031
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+0,male,,0,0,6.8583,Q,Third,man,True,True,1,Solo (1),,2.061570298060867
+1,female,33.0,1,0,90.0,Q,First,woman,False,False,2,Familia pequeña (2-4),>18–35,4.51085950651685
+0,male,,0,0,0.0,S,Second,man,True,True,1,Solo (1),,0.0
+1,male,44.0,0,0,7.925,S,Third,man,True,True,1,Solo (1),>35–60,2.188856327665703
+0,female,,0,0,8.05,S,Third,woman,False,True,1,Solo (1),,2.2027647577118348
+1,female,34.0,1,1,32.5,S,Second,woman,False,False,3,Familia pequeña (2-4),>18–35,3.5115454388310208
+1,female,18.0,0,2,13.0,S,Second,woman,False,False,3,Familia pequeña (2-4),>12–18,2.6390573296152584
+0,male,30.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,female,10.0,0,2,24.15,S,Third,child,False,False,3,Familia pequeña (2-4),0–12,3.224857896545748
+0,male,,0,0,7.8958,C,Third,man,True,True,1,Solo (1),,2.1855792552411137
+0,male,21.0,0,0,7.7333,Q,Third,man,True,True,1,Solo (1),>18–35,2.167143305297764
+0,male,29.0,0,0,7.875,S,Third,man,True,True,1,Solo (1),>18–35,2.1832383353614797
+0,female,28.0,1,1,14.4,S,Third,woman,False,False,3,Familia pequeña (2-4),>18–35,2.7343675094195836
+0,male,18.0,1,1,20.2125,S,Third,man,True,False,3,Familia pequeña (2-4),>12–18,3.0545906305603445
+0,male,,0,0,7.25,S,Third,man,True,True,1,Solo (1),,2.1102132003465894
+1,female,28.0,1,0,26.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>18–35,3.295836866004329
+1,female,19.0,0,0,26.0,S,Second,woman,False,True,1,Solo (1),>18–35,3.295836866004329
+0,male,,0,0,7.75,Q,Third,man,True,True,1,Solo (1),,2.169053700369523
+1,male,32.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+1,male,28.0,0,0,26.55,S,First,man,True,True,1,Solo (1),>18–35,3.3160025355989236
+1,female,,1,0,16.1,S,Third,woman,False,False,2,Familia pequeña (2-4),,2.8390784635086144
+1,female,42.0,1,0,26.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>35–60,3.295836866004329
+0,male,17.0,0,0,7.125,S,Third,man,True,True,1,Solo (1),>12–18,2.094945728215801
+0,male,50.0,1,0,55.9,S,First,man,True,False,2,Familia pequeña (2-4),>35–60,4.041295341132285
+1,female,14.0,1,2,120.0,S,First,child,False,False,4,Familia pequeña (2-4),>12–18,4.795790545596741
+0,female,21.0,2,2,34.375,S,Third,woman,False,False,5,Familia numerosa (5+),>18–35,3.5660053559634015
+1,female,24.0,2,3,18.75,S,Second,woman,False,False,6,Familia numerosa (5+),>18–35,2.9831534913471307
+0,male,64.0,1,4,263.0,S,First,man,True,False,6,Familia numerosa (5+),>60,5.575949103146316
+0,male,31.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>18–35,2.4423470353692043
+1,female,45.0,1,1,26.25,S,Second,woman,False,False,3,Familia pequeña (2-4),>35–60,3.305053521109253
+0,male,20.0,0,0,9.5,S,Third,man,True,True,1,Solo (1),>18–35,2.3513752571634776
+0,male,25.0,1,0,7.775,S,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.1719067693519296
+1,female,28.0,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>18–35,2.6390573296152584
+1,male,,0,0,8.1125,S,Third,man,True,True,1,Solo (1),,2.2096470973347766
+1,male,4.0,0,2,81.8583,S,First,child,False,False,3,Familia pequeña (2-4),0–12,4.417131919904876
+1,female,13.0,0,1,19.5,S,Second,child,False,False,2,Familia pequeña (2-4),>12–18,3.0204248861443626
+1,male,34.0,0,0,26.55,S,First,man,True,True,1,Solo (1),>18–35,3.3160025355989236
+1,female,5.0,2,1,19.2583,C,Third,child,False,False,4,Familia pequeña (2-4),0–12,3.0085645861193133
+1,male,52.0,0,0,30.5,S,First,man,True,True,1,Solo (1),>35–60,3.449987545831587
+0,male,36.0,1,2,27.75,S,Second,man,True,False,4,Familia pequeña (2-4),>35–60,3.3586377672433594
+0,male,,1,0,19.9667,S,Third,man,True,False,2,Familia pequeña (2-4),,3.0429354648621407
+0,male,30.0,0,0,27.75,C,First,man,True,True,1,Solo (1),>18–35,3.3586377672433594
+1,male,49.0,1,0,89.1042,C,First,man,True,False,2,Familia pequeña (2-4),>35–60,4.500966778400217
+0,male,,0,0,8.05,S,Third,man,True,True,1,Solo (1),,2.2027647577118348
+1,male,29.0,0,0,7.8958,C,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+0,male,65.0,0,0,26.55,S,First,man,True,True,1,Solo (1),>60,3.3160025355989236
+1,female,,1,0,51.8625,S,First,woman,False,False,2,Familia pequeña (2-4),,3.967694202798607
+1,female,50.0,0,0,10.5,S,Second,woman,False,True,1,Solo (1),>35–60,2.4423470353692043
+0,male,,0,0,7.75,Q,Third,man,True,True,1,Solo (1),,2.169053700369523
+1,male,48.0,0,0,26.55,S,First,man,True,True,1,Solo (1),>35–60,3.3160025355989236
+0,male,34.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,male,47.0,0,0,38.5,S,First,man,True,True,1,Solo (1),>35–60,3.676300671907076
+0,male,48.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>35–60,2.6390573296152584
+0,male,,0,0,8.05,S,Third,man,True,True,1,Solo (1),,2.2027647577118348
+0,male,38.0,0,0,7.05,S,Third,man,True,True,1,Solo (1),>35–60,2.0856720914304723
+0,male,,0,0,0.0,S,Second,man,True,True,1,Solo (1),,0.0
+0,male,56.0,0,0,26.55,S,First,man,True,True,1,Solo (1),>35–60,3.3160025355989236
+0,male,,0,0,7.725,Q,Third,man,True,True,1,Solo (1),,2.1661924680884908
+1,female,0.75,2,1,19.2583,C,Third,child,False,False,4,Familia pequeña (2-4),0–12,3.0085645861193133
+0,male,,0,0,7.25,S,Third,man,True,True,1,Solo (1),,2.1102132003465894
+0,male,38.0,0,0,8.6625,S,Third,man,True,True,1,Solo (1),>35–60,2.2682524139135403
+1,female,33.0,1,2,27.75,S,Second,woman,False,False,4,Familia pequeña (2-4),>18–35,3.3586377672433594
+1,female,23.0,0,0,13.7917,C,Second,woman,False,True,1,Solo (1),>18–35,2.694066212646058
+0,female,22.0,0,0,9.8375,S,Third,woman,False,True,1,Solo (1),>18–35,2.3830123421066602
+0,male,,0,0,52.0,S,First,man,True,True,1,Solo (1),,3.970291913552122
+0,male,34.0,1,0,21.0,S,Second,man,True,False,2,Familia pequeña (2-4),>18–35,3.091042453358316
+0,male,29.0,1,0,7.0458,S,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.0851502161468174
+0,male,22.0,0,0,7.5208,S,Third,man,True,True,1,Solo (1),>18–35,2.142510233146819
+1,female,2.0,0,1,12.2875,S,Third,child,False,False,2,Familia pequeña (2-4),0–12,2.586823743668066
+0,male,9.0,5,2,46.9,S,Third,child,False,False,8,Familia numerosa (5+),0–12,3.8691155044168695
+0,male,,0,0,0.0,S,Second,man,True,True,1,Solo (1),,0.0
+0,male,50.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>35–60,2.2027647577118348
+1,female,63.0,0,0,9.5875,S,Third,woman,False,True,1,Solo (1),>60,2.3596740599781727
+1,male,25.0,1,0,91.0792,C,First,man,True,False,2,Familia pequeña (2-4),>18–35,4.5226490762785785
+0,female,,3,1,25.4667,S,Third,woman,False,False,5,Familia numerosa (5+),,3.275887339030031
+1,female,35.0,1,0,90.0,S,First,woman,False,False,2,Familia pequeña (2-4),>18–35,4.51085950651685
+0,male,58.0,0,0,29.7,C,First,man,True,True,1,Solo (1),>35–60,3.4242626545931514
+0,male,30.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+1,male,9.0,1,1,15.9,S,Third,child,False,False,3,Familia pequeña (2-4),0–12,2.8273136219290276
+0,male,,1,0,19.9667,S,Third,man,True,False,2,Familia pequeña (2-4),,3.0429354648621407
+0,male,21.0,0,0,7.25,S,Third,man,True,True,1,Solo (1),>18–35,2.1102132003465894
+0,male,55.0,0,0,30.5,S,First,man,True,True,1,Solo (1),>35–60,3.449987545831587
+0,male,71.0,0,0,49.5042,C,First,man,True,True,1,Solo (1),>60,3.922056501139853
+0,male,21.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,male,,0,0,14.4583,C,Third,man,True,True,1,Solo (1),,2.738146075922933
+1,female,54.0,1,0,78.2667,C,First,woman,False,False,2,Familia pequeña (2-4),>35–60,4.37281811610993
+0,male,,0,0,15.1,S,Third,man,True,True,1,Solo (1),,2.7788192719904172
+0,female,25.0,1,2,151.55,S,First,woman,False,False,4,Familia pequeña (2-4),>18–35,5.027492411162679
+0,male,24.0,0,0,7.7958,S,Third,man,True,True,1,Solo (1),>18–35,2.174274334826008
+0,male,17.0,0,0,8.6625,S,Third,man,True,True,1,Solo (1),>12–18,2.2682524139135403
+0,female,21.0,0,0,7.75,Q,Third,woman,False,True,1,Solo (1),>18–35,2.169053700369523
+0,female,,0,0,7.6292,Q,Third,woman,False,True,1,Solo (1),,2.155151800914312
+0,female,37.0,0,0,9.5875,S,Third,woman,False,True,1,Solo (1),>35–60,2.3596740599781727
+1,female,16.0,0,0,86.5,S,First,woman,False,True,1,Solo (1),>12–18,4.471638793363569
+0,male,18.0,1,0,108.9,C,First,man,True,False,2,Familia pequeña (2-4),>12–18,4.699570861409576
+1,female,33.0,0,2,26.0,S,Second,woman,False,False,3,Familia pequeña (2-4),>18–35,3.295836866004329
+1,male,,0,0,26.55,S,First,man,True,True,1,Solo (1),,3.3160025355989236
+0,male,28.0,0,0,22.525,S,Third,man,True,True,1,Solo (1),>18–35,3.1580636854714434
+1,male,26.0,0,0,56.4958,S,Third,man,True,True,1,Solo (1),>18–35,4.05171190165724
+1,male,29.0,0,0,7.75,Q,Third,man,True,True,1,Solo (1),>18–35,2.169053700369523
+0,male,,0,0,8.05,S,Third,man,True,True,1,Solo (1),,2.2027647577118348
+1,male,36.0,0,0,26.2875,S,First,man,True,True,1,Solo (1),>35–60,3.3064287218760624
+1,female,54.0,1,0,59.4,C,First,woman,False,False,2,Familia pequeña (2-4),>35–60,4.100989104940769
+0,male,24.0,0,0,7.4958,S,Third,man,True,True,1,Solo (1),>18–35,2.139571923732859
+0,male,47.0,0,0,34.0208,S,First,man,True,True,1,Solo (1),>35–60,3.5559421706858756
+1,female,34.0,0,0,10.5,S,Second,woman,False,True,1,Solo (1),>18–35,2.4423470353692043
+0,male,,0,0,24.15,Q,Third,man,True,True,1,Solo (1),,3.224857896545748
+1,female,36.0,1,0,26.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>35–60,3.295836866004329
+0,male,32.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+1,female,30.0,0,0,93.5,S,First,woman,False,True,1,Solo (1),>18–35,4.548599834499697
+0,male,22.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+0,male,,0,0,7.225,C,Third,man,True,True,1,Solo (1),,2.1071782966514356
+1,female,44.0,0,1,57.9792,C,First,woman,False,False,2,Familia pequeña (2-4),>35–60,4.077184839375167
+0,male,,0,0,7.2292,C,Third,man,True,True,1,Solo (1),,2.1076888046179385
+0,male,40.5,0,0,7.75,Q,Third,man,True,True,1,Solo (1),>35–60,2.169053700369523
+1,female,50.0,0,0,10.5,S,Second,woman,False,True,1,Solo (1),>35–60,2.4423470353692043
+0,male,,0,0,221.7792,S,First,man,True,True,1,Solo (1),,5.406181146423973
+0,male,39.0,0,0,7.925,S,Third,man,True,True,1,Solo (1),>35–60,2.188856327665703
+0,male,23.0,2,1,11.5,S,Second,man,True,False,4,Familia pequeña (2-4),>18–35,2.5257286443082556
+1,female,2.0,1,1,26.0,S,Second,child,False,False,3,Familia pequeña (2-4),0–12,3.295836866004329
+0,male,,0,0,7.2292,C,Third,man,True,True,1,Solo (1),,2.1076888046179385
+0,male,17.0,1,1,7.2292,C,Third,man,True,False,3,Familia pequeña (2-4),>12–18,2.1076888046179385
+1,female,,0,2,22.3583,C,Third,woman,False,False,3,Familia pequeña (2-4),,3.1509523813392697
+0,female,30.0,0,0,8.6625,S,Third,woman,False,True,1,Solo (1),>18–35,2.2682524139135403
+1,female,7.0,0,2,26.25,S,Second,child,False,False,3,Familia pequeña (2-4),0–12,3.305053521109253
+0,male,45.0,0,0,26.55,S,First,man,True,True,1,Solo (1),>35–60,3.3160025355989236
+1,female,30.0,0,0,106.425,C,First,woman,False,True,1,Solo (1),>18–35,4.676792929661059
+0,male,,0,0,14.5,S,Third,man,True,True,1,Solo (1),,2.740840023925201
+1,female,22.0,0,2,49.5,C,First,woman,False,False,3,Familia pequeña (2-4),>18–35,3.9219733362813143
+1,female,36.0,0,2,71.0,S,First,woman,False,False,3,Familia pequeña (2-4),>35–60,4.276666119016055
+0,female,9.0,4,2,31.275,S,Third,child,False,False,7,Familia numerosa (5+),0–12,3.4742929367327062
+0,female,11.0,4,2,31.275,S,Third,child,False,False,7,Familia numerosa (5+),0–12,3.4742929367327062
+1,male,32.0,1,0,26.0,S,Second,man,True,False,2,Familia pequeña (2-4),>18–35,3.295836866004329
+0,male,50.0,1,0,106.425,C,First,man,True,False,2,Familia pequeña (2-4),>35–60,4.676792929661059
+0,male,64.0,0,0,26.0,S,First,man,True,True,1,Solo (1),>60,3.295836866004329
+1,female,19.0,1,0,26.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>18–35,3.295836866004329
+1,male,,0,0,13.8625,C,Second,man,True,True,1,Solo (1),,2.6988412620169004
+0,male,33.0,1,1,20.525,S,Third,man,True,False,3,Familia pequeña (2-4),>18–35,3.0692150503137943
+1,male,8.0,1,1,36.75,S,Second,child,False,False,3,Familia pequeña (2-4),0–12,3.6309854756950335
+1,male,17.0,0,2,110.8833,C,First,man,True,False,3,Familia pequeña (2-4),>12–18,4.717456363787216
+0,male,27.0,0,0,26.0,S,Second,man,True,True,1,Solo (1),>18–35,3.295836866004329
+0,male,,0,0,7.8292,Q,Third,man,True,True,1,Solo (1),,2.17806441028492
+1,male,22.0,0,0,7.225,C,Third,man,True,True,1,Solo (1),>18–35,2.1071782966514356
+1,female,22.0,0,0,7.775,S,Third,woman,False,True,1,Solo (1),>18–35,2.1719067693519296
+0,male,62.0,0,0,26.55,S,First,man,True,True,1,Solo (1),>60,3.3160025355989236
+1,female,48.0,1,0,39.6,C,First,woman,False,False,2,Familia pequeña (2-4),>35–60,3.703768066607687
+0,male,,0,0,227.525,C,First,man,True,True,1,Solo (1),,5.4316456135398825
+1,female,39.0,1,1,79.65,S,First,woman,False,False,3,Familia pequeña (2-4),>35–60,4.390118804571218
+1,female,36.0,1,0,17.4,S,Third,woman,False,False,2,Familia pequeña (2-4),>35–60,2.91235066461494
+0,male,,0,0,7.75,Q,Third,man,True,True,1,Solo (1),,2.169053700369523
+0,male,40.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>35–60,2.1855792552411137
+0,male,28.0,0,0,13.5,S,Second,man,True,True,1,Solo (1),>18–35,2.6741486494265287
+0,male,,0,0,8.05,S,Third,man,True,True,1,Solo (1),,2.2027647577118348
+0,female,,0,0,8.05,S,Third,woman,False,True,1,Solo (1),,2.2027647577118348
+0,male,24.0,2,0,24.15,S,Third,man,True,False,3,Familia pequeña (2-4),>18–35,3.224857896545748
+0,male,19.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+0,female,29.0,0,4,21.075,S,Third,woman,False,False,5,Familia numerosa (5+),>18–35,3.0944457464900235
+0,male,,0,0,7.2292,C,Third,man,True,True,1,Solo (1),,2.1076888046179385
+1,male,32.0,0,0,7.8542,S,Third,man,True,True,1,Solo (1),>18–35,2.180891922715322
+1,male,62.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>60,2.4423470353692043
+1,female,53.0,2,0,51.4792,S,First,woman,False,False,3,Familia pequeña (2-4),>35–60,3.960416900617205
+1,male,36.0,0,0,26.3875,S,First,man,True,True,1,Solo (1),>35–60,3.3100867049215847
+1,female,,0,0,7.75,Q,Third,woman,False,True,1,Solo (1),,2.169053700369523
+0,male,16.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>12–18,2.2027647577118348
+0,male,19.0,0,0,14.5,S,Third,man,True,True,1,Solo (1),>18–35,2.740840023925201
+1,female,34.0,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>18–35,2.6390573296152584
+1,female,39.0,1,0,55.9,S,First,woman,False,False,2,Familia pequeña (2-4),>35–60,4.041295341132285
+0,female,,1,0,14.4583,C,Third,woman,False,False,2,Familia pequeña (2-4),,2.738146075922933
+1,male,32.0,0,0,7.925,S,Third,man,True,True,1,Solo (1),>18–35,2.188856327665703
+1,female,25.0,1,1,30.0,S,Second,woman,False,False,3,Familia pequeña (2-4),>18–35,3.4339872044851463
+1,female,39.0,1,1,110.8833,C,First,woman,False,False,3,Familia pequeña (2-4),>35–60,4.717456363787216
+0,male,54.0,0,0,26.0,S,Second,man,True,True,1,Solo (1),>35–60,3.295836866004329
+0,male,36.0,0,0,40.125,C,First,man,True,True,1,Solo (1),>35–60,3.716616209085536
+0,male,,0,0,8.7125,C,Third,man,True,True,1,Solo (1),,2.2734137156937657
+1,female,18.0,0,2,79.65,S,First,woman,False,False,3,Familia pequeña (2-4),>12–18,4.390118804571218
+0,male,47.0,0,0,15.0,S,Second,man,True,True,1,Solo (1),>35–60,2.772588722239781
+1,male,60.0,1,1,79.2,C,First,man,True,False,3,Familia pequeña (2-4),>35–60,4.384523514872469
+0,male,22.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,male,,0,0,8.05,S,Third,man,True,True,1,Solo (1),,2.2027647577118348
+0,male,35.0,0,0,7.125,S,Third,man,True,True,1,Solo (1),>18–35,2.094945728215801
+1,female,52.0,1,0,78.2667,C,First,woman,False,False,2,Familia pequeña (2-4),>35–60,4.37281811610993
+0,male,47.0,0,0,7.25,S,Third,man,True,True,1,Solo (1),>35–60,2.1102132003465894
+0,female,,0,2,7.75,Q,Third,woman,False,False,3,Familia pequeña (2-4),,2.169053700369523
+0,male,37.0,1,0,26.0,S,Second,man,True,False,2,Familia pequeña (2-4),>35–60,3.295836866004329
+0,male,36.0,1,1,24.15,S,Third,man,True,False,3,Familia pequeña (2-4),>35–60,3.224857896545748
+1,female,,0,0,33.0,S,Second,woman,False,True,1,Solo (1),,3.5263605246161616
+0,male,49.0,0,0,0.0,S,Third,man,True,True,1,Solo (1),>35–60,0.0
+0,male,,0,0,7.225,C,Third,man,True,True,1,Solo (1),,2.1071782966514356
+1,male,49.0,1,0,56.9292,C,First,man,True,False,2,Familia pequeña (2-4),>35–60,4.0592215752427645
+1,female,24.0,2,1,27.0,S,Second,woman,False,False,4,Familia pequeña (2-4),>18–35,3.332204510175204
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+0,male,,0,0,42.4,S,First,man,True,True,1,Solo (1),,3.770459441106359
+0,male,44.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>35–60,2.2027647577118348
+1,male,35.0,0,0,26.55,C,First,man,True,True,1,Solo (1),>18–35,3.3160025355989236
+0,male,36.0,1,0,15.55,S,Third,man,True,False,2,Familia pequeña (2-4),>35–60,2.806386101823072
+0,male,30.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+1,male,27.0,0,0,30.5,S,First,man,True,True,1,Solo (1),>18–35,3.449987545831587
+1,female,22.0,1,2,41.5792,C,Second,woman,False,False,4,Familia pequeña (2-4),>18–35,3.7513658711253766
+1,female,40.0,0,0,153.4625,S,First,woman,False,True,1,Solo (1),>35–60,5.039951348430309
+0,female,39.0,1,5,31.275,S,Third,woman,False,False,7,Familia numerosa (5+),>35–60,3.4742929367327062
+0,male,,0,0,7.05,S,Third,man,True,True,1,Solo (1),,2.0856720914304723
+1,female,,1,0,15.5,Q,Third,woman,False,False,2,Familia pequeña (2-4),,2.803360380906535
+0,male,,0,0,7.75,Q,Third,man,True,True,1,Solo (1),,2.169053700369523
+0,male,35.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+1,female,24.0,1,2,65.0,S,Second,woman,False,False,4,Familia pequeña (2-4),>18–35,4.189654742026425
+0,male,34.0,1,1,14.4,S,Third,man,True,False,3,Familia pequeña (2-4),>18–35,2.7343675094195836
+0,female,26.0,1,0,16.1,S,Third,woman,False,False,2,Familia pequeña (2-4),>18–35,2.8390784635086144
+1,female,4.0,2,1,39.0,S,Second,child,False,False,4,Familia pequeña (2-4),0–12,3.6888794541139363
+0,male,26.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>18–35,2.4423470353692043
+0,male,27.0,1,0,14.4542,C,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.737880811060884
+1,male,42.0,1,0,52.5542,S,First,man,True,False,2,Familia pequeña (2-4),>35–60,3.9806942251907276
+1,male,20.0,1,1,15.7417,C,Third,man,True,False,3,Familia pequeña (2-4),>18–35,2.817902613071225
+0,male,21.0,0,0,7.8542,S,Third,man,True,True,1,Solo (1),>18–35,2.180891922715322
+0,male,21.0,0,0,16.1,S,Third,man,True,True,1,Solo (1),>18–35,2.8390784635086144
+0,male,61.0,0,0,32.3208,S,First,man,True,True,1,Solo (1),>60,3.5061818266142577
+0,male,57.0,0,0,12.35,Q,Second,man,True,True,1,Solo (1),>35–60,2.5915163848462583
+1,female,21.0,0,0,77.9583,S,First,woman,False,True,1,Solo (1),>18–35,4.368919865004903
+0,male,26.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+0,male,,0,0,7.7333,Q,Third,man,True,True,1,Solo (1),,2.167143305297764
+1,male,80.0,0,0,30.0,S,First,man,True,True,1,Solo (1),>60,3.4339872044851463
+0,male,51.0,0,0,7.0542,S,Third,man,True,True,1,Solo (1),>35–60,2.086193694502369
+1,male,32.0,0,0,30.5,C,First,man,True,True,1,Solo (1),>18–35,3.449987545831587
+0,male,,0,0,0.0,S,First,man,True,True,1,Solo (1),,0.0
+0,female,9.0,3,2,27.9,S,Third,child,False,False,6,Familia numerosa (5+),0–12,3.3638415951183864
+1,female,28.0,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,32.0,0,0,7.925,S,Third,man,True,True,1,Solo (1),>18–35,2.188856327665703
+0,male,31.0,1,1,26.25,S,Second,man,True,False,3,Familia pequeña (2-4),>18–35,3.305053521109253
+0,female,41.0,0,5,39.6875,S,Third,woman,False,False,6,Familia numerosa (5+),>35–60,3.705920919968788
+0,male,,1,0,16.1,S,Third,man,True,False,2,Familia pequeña (2-4),,2.8390784635086144
+0,male,20.0,0,0,7.8542,S,Third,man,True,True,1,Solo (1),>18–35,2.180891922715322
+1,female,24.0,0,0,69.3,C,First,woman,False,True,1,Solo (1),>18–35,4.252771798816619
+0,female,2.0,3,2,27.9,S,Third,child,False,False,6,Familia numerosa (5+),0–12,3.3638415951183864
+1,male,,0,0,56.4958,S,Third,man,True,True,1,Solo (1),,4.05171190165724
+1,female,0.75,2,1,19.2583,C,Third,child,False,False,4,Familia pequeña (2-4),0–12,3.0085645861193133
+1,male,48.0,1,0,76.7292,C,First,man,True,False,2,Familia pequeña (2-4),>35–60,4.353230991152628
+0,male,19.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+1,male,56.0,0,0,35.5,C,First,man,True,True,1,Solo (1),>35–60,3.597312260588446
+0,male,,0,0,7.55,S,Third,man,True,True,1,Solo (1),,2.145931282948669
+1,female,23.0,0,0,7.55,S,Third,woman,False,True,1,Solo (1),>18–35,2.145931282948669
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+1,female,18.0,0,1,23.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>12–18,3.1780538303479458
+0,male,21.0,0,0,8.4333,S,Third,man,True,True,1,Solo (1),>18–35,2.2442459824059346
+1,female,,0,0,7.8292,Q,Third,woman,False,True,1,Solo (1),,2.17806441028492
+0,female,18.0,0,0,6.75,Q,Third,woman,False,True,1,Solo (1),>12–18,2.0476928433652555
+0,male,24.0,2,0,73.5,S,Second,man,True,False,3,Familia pequeña (2-4),>18–35,4.310799125385514
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+0,female,32.0,1,1,15.5,Q,Third,woman,False,False,3,Familia pequeña (2-4),>18–35,2.803360380906535
+0,male,23.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,58.0,0,2,113.275,C,First,man,True,False,3,Familia pequeña (2-4),>35–60,4.738607824217808
+1,male,50.0,2,0,133.65,S,First,man,True,False,3,Familia pequeña (2-4),>35–60,4.902678819257608
+0,male,40.0,0,0,7.225,C,Third,man,True,True,1,Solo (1),>35–60,2.1071782966514356
+0,male,47.0,0,0,25.5875,S,First,man,True,True,1,Solo (1),>35–60,3.2804411805263554
+0,male,36.0,0,0,7.4958,S,Third,man,True,True,1,Solo (1),>35–60,2.139571923732859
+1,male,20.0,1,0,7.925,S,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.188856327665703
+0,male,32.0,2,0,73.5,S,Second,man,True,False,3,Familia pequeña (2-4),>18–35,4.310799125385514
+0,male,25.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,,0,0,7.775,S,Third,man,True,True,1,Solo (1),,2.1719067693519296
+0,male,43.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>35–60,2.2027647577118348
+1,female,,1,0,52.0,S,First,woman,False,False,2,Familia pequeña (2-4),,3.970291913552122
+1,female,40.0,1,1,39.0,S,Second,woman,False,False,3,Familia pequeña (2-4),>35–60,3.6888794541139363
+0,male,31.0,1,0,52.0,S,First,man,True,False,2,Familia pequeña (2-4),>18–35,3.970291913552122
+0,male,70.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>60,2.4423470353692043
+1,male,31.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,,0,0,0.0,S,Second,man,True,True,1,Solo (1),,0.0
+0,male,18.0,0,0,7.775,S,Third,man,True,True,1,Solo (1),>12–18,2.1719067693519296
+0,male,24.5,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+1,female,18.0,0,0,9.8417,S,Third,woman,False,True,1,Solo (1),>12–18,2.3833998102837652
+0,female,43.0,1,6,46.9,S,Third,woman,False,False,8,Familia numerosa (5+),>35–60,3.8691155044168695
+1,male,36.0,0,1,512.3292,C,First,man,True,False,2,Familia pequeña (2-4),>35–60,6.240917354759096
+0,female,,0,0,8.1375,Q,Third,woman,False,True,1,Solo (1),,2.212386825075897
+1,male,27.0,0,0,76.7292,C,First,man,True,True,1,Solo (1),>18–35,4.353230991152628
+0,male,20.0,0,0,9.225,S,Third,man,True,True,1,Solo (1),>18–35,2.3248357019288655
+0,male,14.0,5,2,46.9,S,Third,child,False,False,8,Familia numerosa (5+),>12–18,3.8691155044168695
+0,male,60.0,1,1,39.0,S,Second,man,True,False,3,Familia pequeña (2-4),>35–60,3.6888794541139363
+0,male,25.0,1,2,41.5792,C,Second,man,True,False,4,Familia pequeña (2-4),>18–35,3.7513658711253766
+0,male,14.0,4,1,39.6875,S,Third,child,False,False,6,Familia numerosa (5+),>12–18,3.705920919968788
+0,male,19.0,0,0,10.1708,S,Third,man,True,True,1,Solo (1),>18–35,2.4133032309283076
+0,male,18.0,0,0,7.7958,S,Third,man,True,True,1,Solo (1),>12–18,2.174274334826008
+1,female,15.0,0,1,211.3375,S,First,child,False,False,2,Familia pequeña (2-4),>12–18,5.35817698994543
+1,male,31.0,1,0,57.0,S,First,man,True,False,2,Familia pequeña (2-4),>18–35,4.060443010546419
+1,female,4.0,0,1,13.4167,C,Third,child,False,False,2,Familia pequeña (2-4),0–12,2.668387256845834
+1,male,,0,0,56.4958,S,Third,man,True,True,1,Solo (1),,4.05171190165724
+0,male,25.0,0,0,7.225,C,Third,man,True,True,1,Solo (1),>18–35,2.1071782966514356
+0,male,60.0,0,0,26.55,S,First,man,True,True,1,Solo (1),>35–60,3.3160025355989236
+0,male,52.0,0,0,13.5,S,Second,man,True,True,1,Solo (1),>35–60,2.6741486494265287
+0,male,44.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>35–60,2.2027647577118348
+1,female,,0,0,7.7333,Q,Third,woman,False,True,1,Solo (1),,2.167143305297764
+0,male,49.0,1,1,110.8833,C,First,man,True,False,3,Familia pequeña (2-4),>35–60,4.717456363787216
+0,male,42.0,0,0,7.65,S,Third,man,True,True,1,Solo (1),>35–60,2.157559320943788
+1,female,18.0,1,0,227.525,C,First,woman,False,False,2,Familia pequeña (2-4),>12–18,5.4316456135398825
+1,male,35.0,0,0,26.2875,S,First,man,True,True,1,Solo (1),>18–35,3.3064287218760624
+0,female,18.0,0,1,14.4542,C,Third,woman,False,False,2,Familia pequeña (2-4),>12–18,2.737880811060884
+0,male,25.0,0,0,7.7417,Q,Third,man,True,True,1,Solo (1),>18–35,2.1681046787623672
+0,male,26.0,1,0,7.8542,S,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.180891922715322
+0,male,39.0,0,0,26.0,S,Second,man,True,True,1,Solo (1),>35–60,3.295836866004329
+1,female,45.0,0,0,13.5,S,Second,woman,False,True,1,Solo (1),>35–60,2.6741486494265287
+1,male,42.0,0,0,26.2875,S,First,man,True,True,1,Solo (1),>35–60,3.3064287218760624
+1,female,22.0,0,0,151.55,S,First,woman,False,True,1,Solo (1),>18–35,5.027492411162679
+1,male,,1,1,15.2458,C,Third,man,True,False,3,Familia pequeña (2-4),,2.7878344138303452
+1,female,24.0,0,0,49.5042,C,First,woman,False,True,1,Solo (1),>18–35,3.922056501139853
+0,male,,0,0,26.55,S,First,man,True,True,1,Solo (1),,3.3160025355989236
+1,male,48.0,1,0,52.0,S,First,man,True,False,2,Familia pequeña (2-4),>35–60,3.970291913552122
+0,male,29.0,0,0,9.4833,S,Third,man,True,True,1,Solo (1),>18–35,2.3497835148230464
+0,male,52.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>35–60,2.6390573296152584
+0,male,19.0,0,0,7.65,S,Third,man,True,True,1,Solo (1),>18–35,2.157559320943788
+1,female,38.0,0,0,227.525,C,First,woman,False,True,1,Solo (1),>35–60,5.4316456135398825
+1,female,27.0,0,0,10.5,S,Second,woman,False,True,1,Solo (1),>18–35,2.4423470353692043
+0,male,,0,0,15.5,Q,Third,man,True,True,1,Solo (1),,2.803360380906535
+0,male,33.0,0,0,7.775,S,Third,man,True,True,1,Solo (1),>18–35,2.1719067693519296
+1,female,6.0,0,1,33.0,S,Second,child,False,False,2,Familia pequeña (2-4),0–12,3.5263605246161616
+0,male,17.0,1,0,7.0542,S,Third,man,True,False,2,Familia pequeña (2-4),>12–18,2.086193694502369
+0,male,34.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,50.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>35–60,2.6390573296152584
+1,male,27.0,1,0,53.1,S,First,man,True,False,2,Familia pequeña (2-4),>18–35,3.9908341858524357
+0,male,20.0,0,0,8.6625,S,Third,man,True,True,1,Solo (1),>18–35,2.2682524139135403
+1,female,30.0,3,0,21.0,S,Second,woman,False,False,4,Familia pequeña (2-4),>18–35,3.091042453358316
+1,female,,0,0,7.7375,Q,Third,woman,False,True,1,Solo (1),,2.1676241075599285
+0,male,25.0,1,0,26.0,S,Second,man,True,False,2,Familia pequeña (2-4),>18–35,3.295836866004329
+0,female,25.0,1,0,7.925,S,Third,woman,False,False,2,Familia pequeña (2-4),>18–35,2.188856327665703
+1,female,29.0,0,0,211.3375,S,First,woman,False,True,1,Solo (1),>18–35,5.35817698994543
+0,male,11.0,0,0,18.7875,C,Third,child,False,True,1,Solo (1),0–12,2.9850504252071306
+0,male,,0,0,0.0,S,Second,man,True,True,1,Solo (1),,0.0
+0,male,23.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,23.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,28.5,0,0,16.1,S,Third,man,True,True,1,Solo (1),>18–35,2.8390784635086144
+0,female,48.0,1,3,34.375,S,Third,woman,False,False,5,Familia numerosa (5+),>35–60,3.5660053559634015
+1,male,35.0,0,0,512.3292,C,First,man,True,True,1,Solo (1),>18–35,6.240917354759096
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+1,male,,0,0,30.0,S,First,man,True,True,1,Solo (1),,3.4339872044851463
+0,male,36.0,1,0,78.85,S,First,man,True,False,2,Familia pequeña (2-4),>35–60,4.380149874661021
+1,female,21.0,2,2,262.375,C,First,woman,False,False,5,Familia numerosa (5+),>18–35,5.5735788721243535
+0,male,24.0,1,0,16.1,S,Third,man,True,False,2,Familia pequeña (2-4),>18–35,2.8390784635086144
+1,male,31.0,0,0,7.925,S,Third,man,True,True,1,Solo (1),>18–35,2.188856327665703
+0,male,70.0,1,1,71.0,S,First,man,True,False,3,Familia pequeña (2-4),>60,4.276666119016055
+0,male,16.0,1,1,20.25,S,Third,man,True,False,3,Familia pequeña (2-4),>12–18,3.056356895370426
+1,female,30.0,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>18–35,2.6390573296152584
+0,male,19.0,1,0,53.1,S,First,man,True,False,2,Familia pequeña (2-4),>18–35,3.9908341858524357
+0,male,31.0,0,0,7.75,Q,Third,man,True,True,1,Solo (1),>18–35,2.169053700369523
+1,female,4.0,1,1,23.0,S,Second,child,False,False,3,Familia pequeña (2-4),0–12,3.1780538303479458
+1,male,6.0,0,1,12.475,S,Third,child,False,False,2,Familia pequeña (2-4),0–12,2.600836116795061
+0,male,33.0,0,0,9.5,S,Third,man,True,True,1,Solo (1),>18–35,2.3513752571634776
+0,male,23.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+1,female,48.0,1,2,65.0,S,Second,woman,False,False,4,Familia pequeña (2-4),>35–60,4.189654742026425
+1,male,0.67,1,1,14.5,S,Second,child,False,False,3,Familia pequeña (2-4),0–12,2.740840023925201
+0,male,28.0,0,0,7.7958,S,Third,man,True,True,1,Solo (1),>18–35,2.174274334826008
+0,male,18.0,0,0,11.5,S,Second,man,True,True,1,Solo (1),>12–18,2.5257286443082556
+0,male,34.0,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+1,female,33.0,0,0,86.5,S,First,woman,False,True,1,Solo (1),>18–35,4.471638793363569
+0,male,,0,0,14.5,S,Third,man,True,True,1,Solo (1),,2.740840023925201
+0,male,41.0,0,0,7.125,S,Third,man,True,True,1,Solo (1),>35–60,2.094945728215801
+1,male,20.0,0,0,7.2292,C,Third,man,True,True,1,Solo (1),>18–35,2.1076888046179385
+1,female,36.0,1,2,120.0,S,First,woman,False,False,4,Familia pequeña (2-4),>35–60,4.795790545596741
+0,male,16.0,0,0,7.775,S,Third,man,True,True,1,Solo (1),>12–18,2.1719067693519296
+1,female,51.0,1,0,77.9583,S,First,woman,False,False,2,Familia pequeña (2-4),>35–60,4.368919865004903
+0,male,,0,0,39.6,C,First,man,True,True,1,Solo (1),,3.703768066607687
+0,female,30.5,0,0,7.75,Q,Third,woman,False,True,1,Solo (1),>18–35,2.169053700369523
+0,male,,1,0,24.15,Q,Third,man,True,False,2,Familia pequeña (2-4),,3.224857896545748
+0,male,32.0,0,0,8.3625,S,Third,man,True,True,1,Solo (1),>18–35,2.236712348843338
+0,male,24.0,0,0,9.5,S,Third,man,True,True,1,Solo (1),>18–35,2.3513752571634776
+0,male,48.0,0,0,7.8542,S,Third,man,True,True,1,Solo (1),>35–60,2.180891922715322
+0,female,57.0,0,0,10.5,S,Second,woman,False,True,1,Solo (1),>35–60,2.4423470353692043
+0,male,,0,0,7.225,C,Third,man,True,True,1,Solo (1),,2.1071782966514356
+1,female,54.0,1,3,23.0,S,Second,woman,False,False,5,Familia numerosa (5+),>35–60,3.1780538303479458
+0,male,18.0,0,0,7.75,S,Third,man,True,True,1,Solo (1),>12–18,2.169053700369523
+0,male,,0,0,7.75,Q,Third,man,True,True,1,Solo (1),,2.169053700369523
+1,female,5.0,0,0,12.475,S,Third,child,False,True,1,Solo (1),0–12,2.600836116795061
+0,male,,0,0,7.7375,Q,Third,man,True,True,1,Solo (1),,2.1676241075599285
+1,female,43.0,0,1,211.3375,S,First,woman,False,False,2,Familia pequeña (2-4),>35–60,5.35817698994543
+1,female,13.0,0,0,7.2292,C,Third,child,False,True,1,Solo (1),>12–18,2.1076888046179385
+1,female,17.0,1,0,57.0,S,First,woman,False,False,2,Familia pequeña (2-4),>12–18,4.060443010546419
+0,male,29.0,0,0,30.0,S,First,man,True,True,1,Solo (1),>18–35,3.4339872044851463
+0,male,,1,2,23.45,S,Third,man,True,False,4,Familia pequeña (2-4),,3.196630215920881
+0,male,25.0,0,0,7.05,S,Third,man,True,True,1,Solo (1),>18–35,2.0856720914304723
+0,male,25.0,0,0,7.25,S,Third,man,True,True,1,Solo (1),>18–35,2.1102132003465894
+1,female,18.0,0,0,7.4958,S,Third,woman,False,True,1,Solo (1),>12–18,2.139571923732859
+0,male,8.0,4,1,29.125,Q,Third,child,False,False,6,Familia numerosa (5+),0–12,3.405355391810819
+1,male,1.0,1,2,20.575,S,Third,child,False,False,4,Familia pequeña (2-4),0–12,3.0715352369694915
+0,male,46.0,0,0,79.2,C,First,man,True,True,1,Solo (1),>35–60,4.384523514872469
+0,male,,0,0,7.75,Q,Third,man,True,True,1,Solo (1),,2.169053700369523
+0,male,16.0,0,0,26.0,S,Second,man,True,True,1,Solo (1),>12–18,3.295836866004329
+0,female,,8,2,69.55,S,Third,woman,False,False,11,Familia numerosa (5+),,4.256321678298823
+0,male,,0,0,30.6958,C,First,man,True,True,1,Solo (1),,3.4561841799918147
+0,male,25.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+0,male,39.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>35–60,2.6390573296152584
+1,female,49.0,0,0,25.9292,S,First,woman,False,True,1,Solo (1),>35–60,3.2932111997353943
+1,female,31.0,0,0,8.6833,S,Third,woman,False,True,1,Solo (1),>18–35,2.270402752283094
+0,male,30.0,0,0,7.2292,C,Third,man,True,True,1,Solo (1),>18–35,2.1076888046179385
+0,female,30.0,1,1,24.15,S,Third,woman,False,False,3,Familia pequeña (2-4),>18–35,3.224857896545748
+0,male,34.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+1,female,31.0,1,1,26.25,S,Second,woman,False,False,3,Familia pequeña (2-4),>18–35,3.305053521109253
+1,male,11.0,1,2,120.0,S,First,child,False,False,4,Familia pequeña (2-4),0–12,4.795790545596741
+1,male,0.42,0,1,8.5167,C,Third,child,False,False,2,Familia pequeña (2-4),0–12,2.2530481500547457
+1,male,27.0,0,0,6.975,S,Third,man,True,True,1,Solo (1),>18–35,2.076311648670908
+0,male,31.0,0,0,7.775,S,Third,man,True,True,1,Solo (1),>18–35,2.1719067693519296
+0,male,39.0,0,0,0.0,S,First,man,True,True,1,Solo (1),>35–60,0.0
+0,female,18.0,0,0,7.775,S,Third,woman,False,True,1,Solo (1),>12–18,2.1719067693519296
+0,male,39.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>35–60,2.6390573296152584
+1,female,33.0,1,0,53.1,S,First,woman,False,False,2,Familia pequeña (2-4),>18–35,3.9908341858524357
+0,male,26.0,0,0,7.8875,S,Third,man,True,True,1,Solo (1),>18–35,2.184645795129359
+0,male,39.0,0,0,24.15,S,Third,man,True,True,1,Solo (1),>35–60,3.224857896545748
+0,male,35.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>18–35,2.4423470353692043
+0,female,6.0,4,2,31.275,S,Third,child,False,False,7,Familia numerosa (5+),0–12,3.4742929367327062
+0,male,30.5,0,0,8.05,S,Third,man,True,True,1,Solo (1),>18–35,2.2027647577118348
+0,male,,0,0,0.0,S,First,man,True,True,1,Solo (1),,0.0
+0,female,23.0,0,0,7.925,S,Third,woman,False,True,1,Solo (1),>18–35,2.188856327665703
+0,male,31.0,1,1,37.0042,C,Second,man,True,False,3,Familia pequeña (2-4),>18–35,3.637696679934592
+0,male,43.0,0,0,6.45,S,Third,man,True,True,1,Solo (1),>35–60,2.0082140323914683
+0,male,10.0,3,2,27.9,S,Third,child,False,False,6,Familia numerosa (5+),0–12,3.3638415951183864
+1,female,52.0,1,1,93.5,S,First,woman,False,False,3,Familia pequeña (2-4),>35–60,4.548599834499697
+1,male,27.0,0,0,8.6625,S,Third,man,True,True,1,Solo (1),>18–35,2.2682524139135403
+0,male,38.0,0,0,0.0,S,First,man,True,True,1,Solo (1),>35–60,0.0
+1,female,27.0,0,1,12.475,S,Third,woman,False,False,2,Familia pequeña (2-4),>18–35,2.600836116795061
+0,male,2.0,4,1,39.6875,S,Third,child,False,False,6,Familia numerosa (5+),0–12,3.705920919968788
+0,male,,0,0,6.95,Q,Third,man,True,True,1,Solo (1),,2.0731719286662407
+0,male,,0,0,56.4958,S,Third,man,True,True,1,Solo (1),,4.05171190165724
+1,male,1.0,0,2,37.0042,C,Second,child,False,False,3,Familia pequeña (2-4),0–12,3.637696679934592
+1,male,,0,0,7.75,Q,Third,man,True,True,1,Solo (1),,2.169053700369523
+1,female,62.0,0,0,80.0,,First,woman,False,True,1,Solo (1),>60,4.394449154672439
+1,female,15.0,1,0,14.4542,C,Third,child,False,False,2,Familia pequeña (2-4),>12–18,2.737880811060884
+1,male,0.83,1,1,18.75,S,Second,child,False,False,3,Familia pequeña (2-4),0–12,2.9831534913471307
+0,male,,0,0,7.2292,C,Third,man,True,True,1,Solo (1),,2.1076888046179385
+0,male,23.0,0,0,7.8542,S,Third,man,True,True,1,Solo (1),>18–35,2.180891922715322
+0,male,18.0,0,0,8.3,S,Third,man,True,True,1,Solo (1),>12–18,2.2300144001592104
+1,female,39.0,1,1,83.1583,C,First,woman,False,False,3,Familia pequeña (2-4),>35–60,4.432699549165613
+0,male,21.0,0,0,8.6625,S,Third,man,True,True,1,Solo (1),>18–35,2.2682524139135403
+0,male,,0,0,8.05,S,Third,man,True,True,1,Solo (1),,2.2027647577118348
+1,male,32.0,0,0,56.4958,S,Third,man,True,True,1,Solo (1),>18–35,4.05171190165724
+1,male,,0,0,29.7,C,First,man,True,True,1,Solo (1),,3.4242626545931514
+0,male,20.0,0,0,7.925,S,Third,man,True,True,1,Solo (1),>18–35,2.188856327665703
+0,male,16.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>12–18,2.4423470353692043
+1,female,30.0,0,0,31.0,C,First,woman,False,True,1,Solo (1),>18–35,3.4657359027997265
+0,male,34.5,0,0,6.4375,C,Third,man,True,True,1,Solo (1),>18–35,2.006534770871748
+0,male,17.0,0,0,8.6625,S,Third,man,True,True,1,Solo (1),>12–18,2.2682524139135403
+0,male,42.0,0,0,7.55,S,Third,man,True,True,1,Solo (1),>35–60,2.145931282948669
+0,male,,8,2,69.55,S,Third,man,True,False,11,Familia numerosa (5+),,4.256321678298823
+0,male,35.0,0,0,7.8958,C,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+0,male,28.0,0,1,33.0,S,Second,man,True,False,2,Familia pequeña (2-4),>18–35,3.5263605246161616
+1,female,,1,0,89.1042,C,First,woman,False,False,2,Familia pequeña (2-4),,4.500966778400217
+0,male,4.0,4,2,31.275,S,Third,child,False,False,7,Familia numerosa (5+),0–12,3.4742929367327062
+0,male,74.0,0,0,7.775,S,Third,man,True,True,1,Solo (1),>60,2.1719067693519296
+0,female,9.0,1,1,15.2458,C,Third,child,False,False,3,Familia pequeña (2-4),0–12,2.7878344138303452
+1,female,16.0,0,1,39.4,S,First,woman,False,False,2,Familia pequeña (2-4),>12–18,3.6988297849671046
+0,female,44.0,1,0,26.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>35–60,3.295836866004329
+1,female,18.0,0,1,9.35,S,Third,woman,False,False,2,Familia pequeña (2-4),>12–18,2.336986519711378
+1,female,45.0,1,1,164.8667,S,First,woman,False,False,3,Familia pequeña (2-4),>35–60,5.11118445372147
+1,male,51.0,0,0,26.55,S,First,man,True,True,1,Solo (1),>35–60,3.3160025355989236
+1,female,24.0,0,3,19.2583,C,Third,woman,False,False,4,Familia pequeña (2-4),>18–35,3.0085645861193133
+0,male,,0,0,7.2292,C,Third,man,True,True,1,Solo (1),,2.1076888046179385
+0,male,41.0,2,0,14.1083,S,Third,man,True,False,3,Familia pequeña (2-4),>35–60,2.7152442616824506
+0,male,21.0,1,0,11.5,S,Second,man,True,False,2,Familia pequeña (2-4),>18–35,2.5257286443082556
+1,female,48.0,0,0,25.9292,S,First,woman,False,True,1,Solo (1),>35–60,3.2932111997353943
+0,female,,8,2,69.55,S,Third,woman,False,False,11,Familia numerosa (5+),,4.256321678298823
+0,male,24.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+1,female,42.0,0,0,13.0,S,Second,woman,False,True,1,Solo (1),>35–60,2.6390573296152584
+1,female,27.0,1,0,13.8583,C,Second,woman,False,False,2,Familia pequeña (2-4),>18–35,2.698558631668595
+0,male,31.0,0,0,50.4958,S,First,man,True,True,1,Solo (1),>18–35,3.941500250945973
+0,male,,0,0,9.5,S,Third,man,True,True,1,Solo (1),,2.3513752571634776
+1,male,4.0,1,1,11.1333,S,Third,child,False,False,3,Familia pequeña (2-4),0–12,2.495953738718064
+0,male,26.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+1,female,47.0,1,1,52.5542,S,First,woman,False,False,3,Familia pequeña (2-4),>35–60,3.9806942251907276
+0,male,33.0,0,0,5.0,S,First,man,True,True,1,Solo (1),>18–35,1.791759469228055
+0,male,47.0,0,0,9.0,S,Third,man,True,True,1,Solo (1),>35–60,2.302585092994046
+1,female,28.0,1,0,24.0,C,Second,woman,False,False,2,Familia pequeña (2-4),>18–35,3.2188758248682006
+1,female,15.0,0,0,7.225,C,Third,child,False,True,1,Solo (1),>12–18,2.1071782966514356
+0,male,20.0,0,0,9.8458,S,Third,man,True,True,1,Solo (1),>18–35,2.3837779082709782
+0,male,19.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+0,male,,0,0,7.8958,S,Third,man,True,True,1,Solo (1),,2.1855792552411137
+1,female,56.0,0,1,83.1583,C,First,woman,False,False,2,Familia pequeña (2-4),>35–60,4.432699549165613
+1,female,25.0,0,1,26.0,S,Second,woman,False,False,2,Familia pequeña (2-4),>18–35,3.295836866004329
+0,male,33.0,0,0,7.8958,S,Third,man,True,True,1,Solo (1),>18–35,2.1855792552411137
+0,female,22.0,0,0,10.5167,S,Third,woman,False,True,1,Solo (1),>18–35,2.4437981558973862
+0,male,28.0,0,0,10.5,S,Second,man,True,True,1,Solo (1),>18–35,2.4423470353692043
+0,male,25.0,0,0,7.05,S,Third,man,True,True,1,Solo (1),>18–35,2.0856720914304723
+0,female,39.0,0,5,29.125,Q,Third,woman,False,False,6,Familia numerosa (5+),>35–60,3.405355391810819
+0,male,27.0,0,0,13.0,S,Second,man,True,True,1,Solo (1),>18–35,2.6390573296152584
+1,female,19.0,0,0,30.0,S,First,woman,False,True,1,Solo (1),>18–35,3.4339872044851463
+0,female,,1,2,23.45,S,Third,woman,False,False,4,Familia pequeña (2-4),,3.196630215920881
+1,male,26.0,0,0,30.0,C,First,man,True,True,1,Solo (1),>18–35,3.4339872044851463
+0,male,32.0,0,0,7.75,Q,Third,man,True,True,1,Solo (1),>18–35,2.169053700369523
